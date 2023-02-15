@@ -12,12 +12,17 @@ import QRCode from "qrcode.react";
 import ImageUploader from '../aws/ImageUploader';
 import AWS from 'aws-sdk';
 
+const key = process.env.REACT_APP_AWS_KEY;
+const secret = process.env.REACT_APP_AWS_SECRET;
+const bucket = process.env.REACT_APP_AWS_BUCKET;
+
 AWS.config.update({
-  accessKeyId: 'AKIAQWQTXMRYJVBETPVX',
-  secretAccessKey: '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',
+  accessKeyId: `${key}`,
+  secretAccessKey: `${secret}`,
   region: 'eu-central-1',
   signatureVersion: 'v4',
 });
+
 
 function Add({items}) {
   const { logout } = useLogout();
