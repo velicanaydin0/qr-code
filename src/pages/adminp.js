@@ -75,7 +75,7 @@ function Admin({items}) {
                 <div className="modal-header">
                   {user && (
                     <QRCode
-                      value={"qr-code-six-brown.vercel.app/" + user.uid}
+                      value={"http://qr-code-six-brown.vercel.app/" + user.uid}
                       size={128}
                       bgColor={"#ffffff"}
                       fgColor={"#000000"}
