@@ -1,11 +1,14 @@
 import { useEffect } from "react";
 
-function Category({ categories, filterItems }) {
+function Category({ categories, filterItems, items }) {
   return (
     <div className="btn-container">
 
 
       {categories.map((category, i) => {
+        const firstItem = items.find(function (item){
+          return item.category === category;
+        });
         return (
         <div>
           <button
@@ -15,7 +18,7 @@ function Category({ categories, filterItems }) {
             className="filter-btn"
           >
 
-            <img width="300px" height="100px" src="https://cdn.yemek.com/mnresize/940/940/uploads/2016/02/sirloin-steak-tarifi.jpg" />
+            <img width="100%" height="100%" src={firstItem.img} />
             <br/>
             {category}
             <br/>

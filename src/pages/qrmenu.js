@@ -23,7 +23,6 @@ function Qrmenu() {
     setCategories(allCategories);
     if (category === "Categories") {
       setMenuItems(items);
-      console.log(category);
       return;
     }
     const newItems = items.filter((item) => item.category === category);
@@ -34,7 +33,7 @@ function Qrmenu() {
     <main>
       <section className="menu section">
         <div className="title">
-          <h2>{user && user.displayName || user && user.uid}</h2>
+          <img src={require("../assets/images/lizboon.jpeg")} alt="Lizboon"/>
         </div>
         <div className="underline"></div>
         <Category categories={categories} filterItems={filterItems} />
