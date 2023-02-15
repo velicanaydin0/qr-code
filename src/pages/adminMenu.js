@@ -3,17 +3,44 @@ import { db } from "../db/Firebase";
 import { useAuthContext } from "../hooks/useAuthContext";
 import { useCollection } from "../hooks/useCollection";
 
+import AWS from 'aws-sdk';
 
+
+const key = process.env.REACT_APP_AWS_KEY;
+const secret = process.env.REACT_APP_AWS_SECRET;
+const bucket = process.env.REACT_APP_AWS_BUCKET;
+
+AWS.config.update({
+  accessKeyId: `${key}`,
+  secretAccessKey: `${secret}`,
+  region: 'eu-central-1',
+  signatureVersion: 'v4',
+});
 
 function AdminMenu() {
   const { user } = useAuthContext();
   
 
-  function deleteProduct(id) {
-    const docRef = doc(db, "qrmenu", id);
+  function deleteProduct(item) {
+  console.log("item", item.img.split("https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/")[1])
+    const docRef = doc(db, "qrmenu", item.id);
     deleteDoc(docRef)
-      .then(() => console.log("document deleted"))
+      .then(() => {
+        let s3bucket = new AWS.S3({
+                          accessKeyId: key,
+                          secretAccessKey: secret,
+                        Bucket: 'lizboon-qr-menu-2023',
+                    });
+                    var params = { Bucket: 'lizboon-qr-menu-2023', Key: decodeURI(item.img.split("https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/")[1]) };
+                    s3bucket.deleteObject(params, function(err, data) {
+                        console.log("data", err, data)
+                    });
+
+
+
+      })
       .catch((error) => console.log(error.message));
+
   }
 
   let a = useCollection("qrmenu", user.auth).documents;
@@ -34,7 +61,7 @@ function AdminMenu() {
 
               <td>
                 <button
-                  onClick={() => deleteProduct(item.id)}
+                  onClick={() => deleteProduct(item)}
                   type="button"
                   className="btn btn-danger"
                 >

@@ -9,6 +9,16 @@ import { useAuthContext } from "../hooks/useAuthContext";
 import { useLogout } from "../hooks/useLogout";
 import QRCode from "qrcode.react";
 
+import ImageUploader from '../aws/ImageUploader';
+import AWS from 'aws-sdk';
+
+AWS.config.update({
+  accessKeyId: 'AKIAQWQTXMRYJVBETPVX',
+  secretAccessKey: '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',
+  region: 'eu-central-1',
+  signatureVersion: 'v4',
+});
+
 function Add({items}) {
   const { logout } = useLogout();
   const { user } = useAuthContext();
@@ -19,11 +29,19 @@ function Add({items}) {
   const [desc, setdesc] = useState("");
   const [product, setproduct] = useState([]);
   const a = items && items.filter((a) => user.uid === a.uid);
+  const [isLoading, setIsLoading] = useState(false);
 
-  
+const s3 = new AWS.S3();
+  const [file, setFile] = useState(null);
+
+  const handleFileSelect = (e) => {
+      setFile(e.target.files[0]);
+  }
+
+
 
   useEffect(() => {
-    const q = query(movieCollectionRef, orderBy("timestamp", "desc"));
+    const q = query(movieCollectionRef, orderBy("title", "asc"), orderBy("category", "asc"));
     const unsubscribe = onSnapshot(q, (snapshot) => {
       setproduct(
         snapshot.docs.map((doc) => ({ id: doc.id, data: doc.data() }))
@@ -34,37 +52,64 @@ function Add({items}) {
     };
   }, []);
 
-  function handleSubmit(e) {
+  const handleSubmit = async (e) => {
+
     e.preventDefault();
     if (title === "" && category === "") {
       return;
     }
+    if (!file) {
+          return;
+        }
+        const params = {
+          Bucket: 'lizboon-qr-menu-2023',
+          Key: `${Date.now()}.${file.name}`,
+          Body: file
+        };
+
+    try {
+        setIsLoading(true);
+
+        const { Location } = await s3.upload(params).promise();
+        console.log("aaa", Location)
+
+
+
+        addDoc(movieCollectionRef, {
+              title: title,
+              category: category,
+              price: price,
+              img: Location,
+              desc: desc,
+              timestamp: serverTimestamp(),
+              uid: user.uid,
+              displayName: user.displayName
+            })
+              .then((response) => {
+
+                settitle("");
+                setcategory("");
+                setimg("");
+                setdesc("");
+                setprice("")
+
+              })
+              .catch((error) => {
+
+                console.log(error.message);
+              });
+    } catch {
+    } finally {
+        setIsLoading(false);
+    }
+
+
+
 
     //const moviesCollRef = collection(db, "movies");
-    addDoc(movieCollectionRef, {
-      title: title,
-      category: category,
-      price: price,
-      img: img,
-      desc: desc,
-      timestamp: serverTimestamp(),
-      uid: user.uid,
-      displayName: user.displayName
-    })
-      .then((response) => {
-        settitle("");
-        setcategory("");
-        setimg("");
-        setdesc("");
-        setprice("")
-      
-      })
-      .catch((error) => {
-        console.log(error.message);
-      });
+
    
   }
-console.log(a);
   return (
     <>
        <div
@@ -144,38 +189,33 @@ console.log(a);
                 id="price"
                 placeholder="price"
               />
-
-              <input
-                style={{ margin: "3px",border:"1px solid grey"  }}
-                type="text"
-                className="form-control"
-                value={img}
-                onChange={(e) => setimg(e.target.value)}
-                id="image"
-                placeholder="image"
-              /></div>
-   <div style={{display:"flex"}}><textarea
-                style={{ margin: "3px",border:"1px solid grey" }}
-                type="text"
-                className="form-control"
-                value={desc}
-                onChange={(e) => setdesc(e.target.value)}
-                id="desc"
-                placeholder="desc"
+              <textarea
+                              style={{ margin: "3px",border:"1px solid grey" }}
+                              type="text"
+                              className="form-control"
+                              value={desc}
+                              onChange={(e) => setdesc(e.target.value)}
+                              id="desc"
+                              placeholder="desc"
+                            /></div>
+            <div style={{display:"flex"}}>
+              <ImageUploader
+                  handleFileSelect={handleFileSelect}
               />
-         
+
               <button
                 style={{
                   margin: "5px",
                   width: "30%",
-                  
                   color: "white",
                   backgroundColor: "black",
                   borderRadius: "5px",
                 }}
                 type="submit"
+                  disabled={isLoading}
+
               >
-                Add
+                Yükle
               </button></div>
               
               
@@ -225,6 +265,9 @@ console.log(a);
             </div>
           </div>
         </div>}
+
+
+
       </div>
     </>
   );
