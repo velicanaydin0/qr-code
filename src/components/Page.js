@@ -49,7 +49,7 @@ function Page({ items, item }) {
         </div>
         <div className="underline"></div>
         <p></p>
-        {categoryVisible && <Category categories={categories} filterItems={filterItems} /> }
+        {categoryVisible && <Category categories={categories} filterItems={filterItems} items={items} /> }
         {!categoryVisible && <div className="geri-don-tusu" onClick={() => {setCategoryVisible(true); setFiltered(false)}}>
           Menüye Dön
         </div>}
