@@ -2,7 +2,8 @@ function Menu({ items }) {
   return (
     <div className="section-center">
       {items &&
-        items.map((item, i) => {
+        items.filter(item => item.title.trim().length !== 0)
+             .map((item, i) => {
           const { id, title, img, desc, price } = item.data || item;
           return (
             <article key={id} className="menu-item">
