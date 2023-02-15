@@ -23,7 +23,6 @@ function Page({ items, item }) {
     setCategories(allCategories);
     if (category === "Categories") {
       setMenuItems(items);
-      console.log(category);
       return;
     }
     setFiltered(true)
@@ -45,7 +44,7 @@ function Page({ items, item }) {
      
       <section className="menu section">
         <div className="title">
-          <h2>{ items[0].displayName || "QR Menu"}</h2>
+          <img src={require("../assets/images/lizboon.jpeg")} alt="Lizboon"/>
         </div>
         <div className="underline"></div>
         <p></p>
