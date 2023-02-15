@@ -18,7 +18,7 @@ function Category({ categories, filterItems, items }) {
             className="filter-btn"
           >
 
-            <img width="300px" height="300px" src={firstItem.img} />
+            <img width="100%" height="100%" src={firstItem.img} />
             <br/>
             {category}
             <br/>
