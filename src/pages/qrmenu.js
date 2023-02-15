@@ -23,7 +23,6 @@ function Qrmenu() {
     setCategories(allCategories);
     if (category === "Categories") {
       setMenuItems(items);
-      console.log(category);
       return;
     }
     const newItems = items.filter((item) => item.category === category);
