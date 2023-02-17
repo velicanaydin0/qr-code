@@ -244,7 +244,7 @@ const s3 = new AWS.S3();
             <div className="modal-content">
               <div className="modal-header">
                 <QRCode
-                  value={"http://qrmenu-bice.vercel.app/" + user.uid}
+                  value={"http://digital-qr-menu.s3-website.eu-central-1.amazonaws.com"}
                   size={128}
                   bgColor={"#ffffff"}
                   fgColor={"#000000"}
