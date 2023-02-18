@@ -12,8 +12,9 @@ import Changename from "./pages/changename";
 
 function App() {
   const { user } = useAuthContext();
-
+  
   let items = useCollection(`qrmenu-${user?.uid}`).documents;
+  let categorySorted = useCollection("qr-menu-category-sort").documents;
 
   return (
     <Router>
@@ -40,14 +41,9 @@ function App() {
         {items &&
           items.map((item, i) => (
             <Route
-              key={i}
-              path={`/${item ? item.uid : user.uid}`}
-              element={
-                <Page
-                  item={item}
-                  items={items}
-                />
-              }
+                key={i}
+                path={`/${item ? item.uid : user.uid}`}
+                element={<Page item={item} items={items} categorySorted={categorySorted}/>}
             />
           ))}
 
