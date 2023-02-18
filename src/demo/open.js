@@ -1,12 +1,9 @@
-import Footer from "../components/footer/Footer";
-import "./open.css";
 import { useState } from "react";
 import { useLogin } from "../hooks/useLogin";
 import { useSignup } from "../hooks/useSignup";
 import { useAuthContext } from "../hooks/useAuthContext";
-import QRCode from "qrcode.react";
-import { Link } from "react-router-dom";
-import Adminp from "../pages/adminp";
+
+import "./open.css";
 
 function Open() {
   const [email, setEmail] = useState("");
@@ -50,7 +47,7 @@ function Open() {
     >
       <div
         className='container'
-        style={{ height: "100%", color: "white", width: "30%" }}
+        style={{ height: "100%", color: "white" }}
       >
         <div
           className='row'
@@ -113,7 +110,6 @@ function Open() {
                 }}
               >
                 <button
-                  style={{ width: "49.1%" }}
                   value='Register'
                   className='btn btn-warning'
                   onClick={handleSubmit}

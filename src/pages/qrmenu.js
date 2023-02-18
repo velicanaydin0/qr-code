@@ -1,8 +1,6 @@
 import Menu from "../components/Menu";
 import Category from "../components/Category";
-import { onSnapshot, query, orderBy } from "firebase/firestore";
-import { movieCollectionRef } from "../db/firebase-collection";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { useAuthContext } from "../hooks/useAuthContext";
 import { useCollection } from "../hooks/useCollection";
 

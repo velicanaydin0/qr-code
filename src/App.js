@@ -9,7 +9,6 @@ import Page from "./components/Page";
 import { useCollection } from "./hooks/useCollection";
 import Notfound from "./components/notfound";
 import Changename from "./pages/changename";
-import { getAuth } from "firebase/auth";
 
 function App() {
   const { user } = useAuthContext();
