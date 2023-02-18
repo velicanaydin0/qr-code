@@ -13,7 +13,7 @@ import Changename from "./pages/changename";
 function App() {
   const { user } = useAuthContext();
   
-  let items = useCollection(`qrmenu-${user?.uid}`).documents;
+  let items = useCollection(`qrmenu`).documents;
   let categorySorted = useCollection("qr-menu-category-sort").documents;
 
   return (

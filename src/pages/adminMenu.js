@@ -26,7 +26,7 @@ function AdminMenu() {
         "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/",
       )[1],
     );
-    const docRef = doc(db, `qrmenu-${user?.uid}`, item.id);
+    const docRef = doc(db, `qrmenu`, item.id);
     deleteDoc(docRef)
       .then(() => {
         let s3bucket = new AWS.S3({
@@ -49,7 +49,7 @@ function AdminMenu() {
       .catch((error) => console.log(error.message));
   }
 
-  let a = useCollection(`qrmenu-${user?.uid}`, user.auth).documents;
+  let a = useCollection(`qrmenu`, user.auth).documents;
   a = a && a.filter((item) => item.uid === user.uid);
   return (
     <div style={{ marginTop: "40px" }}>

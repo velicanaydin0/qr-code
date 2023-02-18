@@ -22,7 +22,7 @@ function Changename({ items }) {
     e.preventDefault();
     updateProfile(user, { displayName });
     if (a[0]) {
-      const docRef = doc(db, `qrmenu-${user?.uid}`, a[0].id);
+      const docRef = doc(db, `qrmenu`, a[0].id);
       updateDoc(docRef, { displayName: name })
         .then((response) => {
           console.log(response);
