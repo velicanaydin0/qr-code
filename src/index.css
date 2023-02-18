@@ -179,21 +179,24 @@ Menu
   margin-top: 2rem;
   margin-bottom: 4rem;
   text-align: center;
-  justify-content: center;
+
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 }
-.geri-don-tusu{
-    text-align: center;
-    justify-content: center;
-    background-color: rgba(0,0,0,.4);
-    border: 1px solid #fff;
-    border-radius: 1242px;
-    color: #fff;
-    font-weight: var(--dm-heading1-fontweight);
-    margin: 0 auto;
-    padding: 15px 25px;
-    width: -moz-max-content;
-    width: max-content;
-    z-index: 10;
+.geri-don-tusu {
+  text-align: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.4);
+  border: 1px solid #fff;
+  border-radius: 1242px;
+  color: #fff;
+  font-weight: var(--dm-heading1-fontweight);
+  margin: 0 auto;
+  padding: 15px 25px;
+  width: -moz-max-content;
+  width: max-content;
+  z-index: 10;
 }
 .filter-btn {
   background: transparent;
@@ -282,4 +285,32 @@ Menu
   text-align: center;
   justify-content: center;
   align-items: center;
+}
+
+.category-container {
+  position: relative;
+  height: 150px;
+}
+
+.category-container img {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  border-radius: 20px;
+  object-fit: cover;
+}
+
+.category-container span {
+  position: absolute;
+  color: #fff;
+
+  text-align: center;
+  text-shadow: 1px 1px 13px rgb(0 0 0 / 90%), 1px 1px 30px rgb(0 0 0 / 50%);
+  top: 50%;
+  right: 50%;
+  transform: translate(50%, -50%);
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.013rem;
+  text-transform: uppercase;
 }
