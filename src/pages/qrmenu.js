@@ -1,15 +1,13 @@
 import Menu from "../components/Menu";
 import Category from "../components/Category";
-import { onSnapshot, query, orderBy } from "firebase/firestore";
-import { movieCollectionRef } from "../db/firebase-collection";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { useAuthContext } from "../hooks/useAuthContext";
 import { useCollection } from "../hooks/useCollection";
 
 function Qrmenu() {
   const { user } = useAuthContext();
 
-  let items = useCollection("qrmenu").documents;
+  let items = useCollection(`qrmenu-${user.uid}`).documents;
   items = items && items.filter((item) => item.uid === user && user.uid);
 
   const allCategories = [
@@ -31,12 +29,18 @@ function Qrmenu() {
 
   return (
     <main>
-      <section className="menu section">
-        <div className="title">
-          <img src={require("../assets/images/lizboon.jpeg")} alt="Lizboon"/>
+      <section className='menu section'>
+        <div className='title'>
+          <img
+            src={require("../assets/images/lizboon.jpeg")}
+            alt='Lizboon'
+          />
         </div>
-        <div className="underline"></div>
-        <Category categories={categories} filterItems={filterItems} />
+        <div className='underline'></div>
+        <Category
+          categories={categories}
+          filterItems={filterItems}
+        />
         <Menu items={menuItems} />
       </section>
     </main>

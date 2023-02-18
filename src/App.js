@@ -9,23 +9,35 @@ import Page from "./components/Page";
 import { useCollection } from "./hooks/useCollection";
 import Notfound from "./components/notfound";
 import Changename from "./pages/changename";
-import { getAuth } from "firebase/auth";
 
 function App() {
   const { user } = useAuthContext();
-  let items = useCollection("qrmenu").documents;
+  
+  let items = useCollection(`qrmenu-${user?.uid}`).documents;
   let categorySorted = useCollection("qr-menu-category-sort").documents;
 
   return (
     <Router>
       <Routes>
         {!JSON.parse(localStorage.getItem("login")) ? (
-          <Route path={"/"} element={<Open />} />
+          <Route
+            path={"/"}
+            element={<Open />}
+          />
         ) : (
-          <Route path={"/"} element={<Admin />} />
+          <Route
+            path={"/"}
+            element={<Admin />}
+          />
         )}
-        <Route path={"/profil"} element={<Qrmenu />} />
-        <Route path={"/demo"} element={<Demo />} />
+        <Route
+          path={"/profil"}
+          element={<Qrmenu />}
+        />
+        <Route
+          path={"/demo"}
+          element={<Demo />}
+        />
         {items &&
           items.map((item, i) => (
             <Route
@@ -35,17 +47,38 @@ function App() {
             />
           ))}
 
-        <Route path={"*"} element={<Notfound />} />
-        {user && <Route path={"/admin"} element={<Admin items={items} />} />}
-        {user && <Route path={"/admin/add"} element={<AddProduct items={items}/>} />}
+        <Route
+          path={"*"}
+          element={<Notfound />}
+        />
+        {user && (
+          <Route
+            path={"/admin"}
+            element={<Admin items={items} />}
+          />
+        )}
+        {user && (
+          <Route
+            path={"/admin/add"}
+            element={<AddProduct items={items} />}
+          />
+        )}
         {items &&
-          items.map((item, i) => (
-        
-            user &&  <Route key={i} path={"/admin/settings"} element={<Changename item={item} items={items} />} />
-            
-          
-          ))}
-      
+          items.map(
+            (item, i) =>
+              user && (
+                <Route
+                  key={i}
+                  path={"/admin/settings"}
+                  element={
+                    <Changename
+                      item={item}
+                      items={items}
+                    />
+                  }
+                />
+              ),
+          )}
       </Routes>
     </Router>
   );
