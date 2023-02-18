@@ -1,0 +1,33 @@
+.menu-item1 {
+  display: flex;
+}
+
+.menu-item1 img {
+  width: 60px;
+  height: 60px;
+  border-radius: 5px;
+  flex-shrink: 0;
+  margin-right: 8px;
+  -o-object-fit: cover;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+.menu-item1 .menu-item-info {
+  width: 100%;
+}
+
+.menu-item1 .menu-item-info .menu-item-info-title {
+  color: #0c4a6e;
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: -0.013rem;
+  line-height: 120%;
+  margin: 0 5px 0 0;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+
+.menu-item1 .menu-item-info .menu-item-info-title-content {
+}
