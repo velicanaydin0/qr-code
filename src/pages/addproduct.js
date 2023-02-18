@@ -44,7 +44,7 @@ function Add({ items }) {
 
   useEffect(() => {
     const q = query(
-      movieCollectionRef(user.uid),
+      movieCollectionRef,
       orderBy("title", "asc"),
       orderBy("category", "asc"),
     );
@@ -79,7 +79,7 @@ function Add({ items }) {
 
       const { Location } = await s3.upload(params).promise();
 
-      addDoc(movieCollectionRef(user.uid), {
+      addDoc(movieCollectionRef, {
         title: title,
         category: category,
         price: price,
