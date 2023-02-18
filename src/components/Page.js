@@ -4,7 +4,7 @@ import { useAuthContext } from "../hooks/useAuthContext";
 import Category from "./Category";
 import Menu from "./Menu";
 
-function Page({ items, item }) {
+function Page({ items, item, categorySorted }) {
   const { user } = useAuthContext();
 
 
@@ -48,7 +48,7 @@ function Page({ items, item }) {
         </div>
         <div className="underline"></div>
         <p></p>
-        {categoryVisible && <Category categories={categories} filterItems={filterItems} items={items} /> }
+        {categoryVisible && categorySorted != null && <Category categories={categorySorted[0].name} filterItems={filterItems} items={items} /> }
         {!categoryVisible && <div className="geri-don-tusu" onClick={() => {setCategoryVisible(true); setFiltered(false)}}>
           Menüye Dön
         </div>}

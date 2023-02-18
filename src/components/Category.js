@@ -9,6 +9,8 @@ function Category({ categories, filterItems, items }) {
         const firstItem = items.find(function (item){
           return item.category === category;
         });
+
+        if(firstItem)
         return (
         <div>
           <button
