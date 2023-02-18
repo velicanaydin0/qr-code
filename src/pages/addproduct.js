@@ -246,7 +246,7 @@ function Add({ items }) {
             <AdminMenu />
           </form>
         </div>
-       {a && a[0] &&  <div
+       {a && a[0] &&  (<div
           style={{
             justifyContent: "center",
 
@@ -287,6 +287,7 @@ function Add({ items }) {
               </div>
             </div>
           </div>
+       </div>
         )}
       </div>
     </>

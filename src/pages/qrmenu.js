@@ -7,7 +7,7 @@ import { useCollection } from "../hooks/useCollection";
 function Qrmenu() {
   const { user } = useAuthContext();
 
-  let items = useCollection(`qrmenu-${user.uid}`).documents;
+  let items = useCollection(`qrmenu-${user?.uid}`).documents;
   items = items && items.filter((item) => item.uid === user && user.uid);
 
   const allCategories = [
