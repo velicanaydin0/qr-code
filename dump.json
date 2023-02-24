@@ -1,0 +1,1780 @@
+[
+    {
+        "id": "07iPaRSKZ2Kp8LurLWXJ",
+        "category": "Kahveler",
+        "title": "Latte",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "timestamp": {
+            "seconds": 1676624797,
+            "nanoseconds": 339000000
+        },
+        "displayName": "Lizboon Coffee & More",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676624782270.53.jpg",
+        "desc": "",
+        "price": "55"
+    },
+    {
+        "id": "0y5MQ8bAXgltF1JexXKA",
+        "category": "Taze meyveli lezzetler",
+        "title": "Elma suyu",
+        "timestamp": {
+            "seconds": 1677107144,
+            "nanoseconds": 219000000
+        },
+        "price": "65",
+        "desc": "",
+        "displayName": "Lizboon Coffee & More",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1677107141435.Elma-suyunun-faydalar%C4%B1.jpg"
+    },
+    {
+        "id": "1Za2MCWiZ0T6Rw7Rm6jz",
+        "price": "140",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "category": "Makarnalar",
+        "desc": "Jülyen tavuk, mantar, krema sos ile.",
+        "timestamp": {
+            "seconds": 1676565099,
+            "nanoseconds": 554000000
+        },
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676565087713.Fettuccine%20Alfredo.jpeg",
+        "title": "Fettuccine Alfredo",
+        "displayName": "Lizboon Coffee & More"
+    },
+    {
+        "id": "1x0A0yrPwhl3AwUVsDrk",
+        "desc": "Karpuz\nPortakal\nIce",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676888100144.20230220_131435.jpg",
+        "displayName": "Lizboon Coffee & More",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "price": "180",
+        "category": "Nargile",
+        "title": "Ulugeyik",
+        "timestamp": {
+            "seconds": 1676888102,
+            "nanoseconds": 379000000
+        }
+    },
+    {
+        "id": "27FFrjP6JwjudUBnEp6M",
+        "title": "Kızarmış Keçi Peynirli Ege Otları Salatası",
+        "desc": "Narenciye sos ile.",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676563075401.c46a4874-7208-4b49-8a50-b8cd63b07463.jpg",
+        "price": "140",
+        "category": "Salatalar",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "displayName": null,
+        "timestamp": {
+            "seconds": 1676563114,
+            "nanoseconds": 751000000
+        }
+    },
+    {
+        "id": "2H0znY5sFzzaPJUuXUrp",
+        "price": "18",
+        "timestamp": {
+            "seconds": 1676625091,
+            "nanoseconds": 55000000
+        },
+        "category": "Sıcak içecekler",
+        "displayName": "Lizboon Coffee & More",
+        "desc": "",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676625086456.1573632016_Dunya_Cay_Gunu.jpg",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "title": "Çay"
+    },
+    {
+        "id": "3EZ2OjCdrsRruwjcCUPP",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "category": "Bitki çayları",
+        "title": "Kuş burnu",
+        "timestamp": {
+            "seconds": 1676646230,
+            "nanoseconds": 300000000
+        },
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676646226974.3434627_5a130d0fdd8bd3bc971aeb98c8f9fef9.jpg",
+        "desc": "",
+        "price": "60",
+        "displayName": "Lizboon Coffee & More"
+    },
+    {
+        "id": "44QBrLzjwXefceesptZX",
+        "category": "Salatalar",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "displayName": null,
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676563726761.Lizboon%20Salata.jpeg",
+        "timestamp": {
+            "seconds": 1676563740,
+            "nanoseconds": 801000000
+        },
+        "title": "Lizboon Salata",
+        "desc": "Baby roka, kiraz domates, portakal, kibrit elma, nar taneleri, tulum peyniri, ceviz içi, vinegret sos.",
+        "price": "130"
+    },
+    {
+        "id": "4HmLInCtVs685j28cbJn",
+        "category": "Salatalar",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "price": "160",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676563554037.97f3ef7b-91a6-4e5a-a0e3-79512bdae3a3.jpg",
+        "desc": "Bostan yeşillikleri, Norveç somon.",
+        "displayName": null,
+        "title": "Somon Dashi Salata",
+        "timestamp": {
+            "seconds": 1676563561,
+            "nanoseconds": 611000000
+        }
+    },
+    {
+        "id": "4wdeLLmcN06V21BvLDhy",
+        "timestamp": {
+            "seconds": 1677104112,
+            "nanoseconds": 448000000
+        },
+        "title": "Lizboonbarasinga",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1677104109369.s-f26fee1a88ef2822eb0fc70a88c00b5f676b8767.jpg",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "price": "65",
+        "category": "Lizboon kokteyller",
+        "desc": "Çilek \nElma \nGreyfurt \nSüt",
+        "displayName": "Lizboon Coffee & More"
+    },
+    {
+        "id": "5XVTYsTspH6xPAp6aJF4",
+        "title": "Alces",
+        "price": "180",
+        "desc": "Sakız\n kavun",
+        "category": "Nargile",
+        "timestamp": {
+            "seconds": 1676888352,
+            "nanoseconds": 541000000
+        },
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676888350312.20230220_131831.jpg",
+        "displayName": "Lizboon Coffee & More",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1"
+    },
+    {
+        "id": "5fSyzNX84Zxkeq45brF5",
+        "category": "Taze meyveli lezzetler",
+        "title": "Greyfurt ",
+        "timestamp": {
+            "seconds": 1677107075,
+            "nanoseconds": 961000000
+        },
+        "price": "75",
+        "displayName": "Lizboon Coffee & More",
+        "desc": "",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1677107072238.greyfurtun_faydalari_neledir_greyfurt_suyunu_ilacla_beraber_icerseniz_ne_olur_1585144481_9208.jpg",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1"
+    },
+    {
+        "id": "5oXC6vj1Cdulw3ostYs7",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676647103647.ice-latte-1024x683.jpg",
+        "timestamp": {
+            "seconds": 1676647107,
+            "nanoseconds": 74000000
+        },
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "displayName": "Lizboon Coffee & More",
+        "category": "Soğuk kahveler",
+        "desc": "",
+        "price": "56",
+        "title": "Ice latte "
+    },
+    {
+        "id": "5tOYBIkfGIgVIn93V7Y8",
+        "price": "170",
+        "displayName": null,
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676556427900.3142ea82-d24c-4b4c-9dd2-61381046a5f1.jpg",
+        "timestamp": {
+            "seconds": 1676556429,
+            "nanoseconds": 883000000
+        },
+        "title": "Beğendili Kasap Köfte",
+        "category": "Ana Yemekler",
+        "desc": "Meşe odunu ateşinde közlenmiş patlıcanlı beğendi, kasap köfte, köz kiraz domates ve kıl biber.",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1"
+    },
+    {
+        "id": "5wztw7JkuLIgVIvPJ0y5",
+        "displayName": null,
+        "timestamp": {
+            "seconds": 1676554912,
+            "nanoseconds": 538000000
+        },
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "desc": "Izgara sebzeler, tulum peyniri, ceviz içi.",
+        "price": "128",
+        "title": "Vejetaryen Pizza",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676554910533.vejetaryen.jpeg",
+        "category": "Pizzalar"
+    },
+    {
+        "id": "67KlehoLNG5B6MtntdSp",
+        "title": "Satay Soslu Piliç Şiş",
+        "category": "Ana Yemekler",
+        "price": "165",
+        "timestamp": {
+            "seconds": 1676556533,
+            "nanoseconds": 696000000
+        },
+        "displayName": null,
+        "desc": "Meşe odunu ateşinde közlenmiş patlıcanlı beğendi, tercihen tavuk but veya bonfile şiş, köz kiraz domates ve kıl biber.",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676556531058.6e63455e-be46-4ad3-8182-b45333234078.jpg",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1"
+    },
+    {
+        "id": "6E3WNM3nHF8zbRe5JnG5",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "price": "95",
+        "displayName": "Lizboon Coffee & More",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676873420442.IMG-20230216-WA0086.jpg",
+        "title": "Bazlama karışık tost",
+        "category": " Tost Çeşitleri",
+        "desc": "Taze bazlama ekmeğine Sucuk . Kaşar .\nVe sıcak patates.... ",
+        "timestamp": {
+            "seconds": 1676873422,
+            "nanoseconds": 840000000
+        }
+    },
+    {
+        "id": "6Zc9TKAoJcuwV5i6egn7",
+        "timestamp": {
+            "seconds": 1677105388,
+            "nanoseconds": 221000000
+        },
+        "title": "Sprite",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1677105385460.89666c062beed51335a2b00d326e0781-600x9000.jpg",
+        "price": "24",
+        "displayName": "Lizboon Coffee & More",
+        "desc": "",
+        "category": "Soğuk içecekler",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1"
+    },
+    {
+        "id": "7W7w13LT59KoKZsWq13l",
+        "desc": "",
+        "displayName": "Lizboon Coffee & More",
+        "timestamp": {
+            "seconds": 1676654187,
+            "nanoseconds": 938000000
+        },
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "category": "Dünya klasikleri kahveler",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676654184699.10420052525106.jpg",
+        "title": "Chemex",
+        "price": "55"
+    },
+    {
+        "id": "7fu0VDHSnSV0u4wuHunz",
+        "title": "Yaseminli yeşil çay",
+        "timestamp": {
+            "seconds": 1676646421,
+            "nanoseconds": 713000000
+        },
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "category": "Bitki çayları",
+        "displayName": "Lizboon Coffee & More",
+        "desc": "",
+        "price": "60",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676646417440.1625496981348202686.png"
+    },
+    {
+        "id": "8IH4PSq4jt4Mjq386HEn",
+        "category": "Pizzalar",
+        "price": "150",
+        "desc": "Acılı kıyma, Meksika fasulye, mısır, jalapeno biberi.",
+        "timestamp": {
+            "seconds": 1676555209,
+            "nanoseconds": 173000000
+        },
+        "displayName": null,
+        "title": "Spicy Pizza",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676555206498.55de4364-58e3-4344-aa42-967c95def9a9.jpg",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1"
+    },
+    {
+        "id": "8N5Sg7IhtXbHjUYDbUa6",
+        "title": "Salep çilekli",
+        "displayName": "Lizboon Coffee & More",
+        "category": "Sıcak içecekler",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "price": "60",
+        "desc": "",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676656650348.PRODUCT-c11VTqvthq.jpg",
+        "timestamp": {
+            "seconds": 1676656653,
+            "nanoseconds": 502000000
+        }
+    },
+    {
+        "id": "A1nGvDKQq8dQPaO2GDUp",
+        "displayName": null,
+        "title": "Tavuklu Wrap",
+        "price": "135",
+        "timestamp": {
+            "seconds": 1676564417,
+            "nanoseconds": 191000000
+        },
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "desc": "Jülyen tavuk bonfile, kapya biberi, köy biberi, şefin özel baharatı, baharatlı patates.",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676564403499.Tavuklu%20Wrap.jpeg",
+        "category": "Wrapler"
+    },
+    {
+        "id": "AU1KvYlnoCnxd2RTrA0q",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676646867043.Ice-Americano.jpg",
+        "desc": "",
+        "timestamp": {
+            "seconds": 1676646885,
+            "nanoseconds": 640000000
+        },
+        "price": "55",
+        "displayName": "Lizboon Coffee & More",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "category": "Soğuk kahveler",
+        "title": "Ice amerikano"
+    },
+    {
+        "id": "AnYkmNeOF1jG2u2V0pCT",
+        "category": "Nargile",
+        "timestamp": {
+            "seconds": 1676888598,
+            "nanoseconds": 454000000
+        },
+        "price": "180",
+        "desc": "Fındık\nÇikolata\nVanilya",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676888595147.20230220_132307.jpg",
+        "displayName": "Lizboon Coffee & More",
+        "title": "Munçak",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1"
+    },
+    {
+        "id": "B0wIFfzgj9SChUWZaokh",
+        "timestamp": {
+            "seconds": 1676628637,
+            "nanoseconds": 226000000
+        },
+        "title": "Ada çayı",
+        "price": "60",
+        "category": "Bitki çayları",
+        "displayName": "Lizboon Coffee & More",
+        "desc": "",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676628637067.ada-cayi-faydalari-nelerdir-nasil-demlenir_349270_1.jpg",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1"
+    },
+    {
+        "id": "B3WeChAvloEJlEhvdIBK",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676566144179.Lizboon%20Kahvalt%C4%B1%20%C5%9E%C3%B6leni.jpeg",
+        "desc": "Tam yağlı Ezine peyniri, cevizli tulum peyniri, tam yağlı kaşar peyniri, pesto soslu misket mozarella, baharatlı lor peyniri, kuru kayısısı, ceviz içi, kuru incir, yeşil kalamata zeytin, siyah Gemlik zeytin, zeytin salatası, ev yapımı acuka, yayık tereyağı, süzme çiçek balı, kaymak, portakal kabuğu reçeli, Nutella, macar salam, kiraz domates, Çengelköy salatalık, köy biberi, bostan yeşillikleri, yoğurt, İzmir fıldırfış, anne patatesi, tereyağında göz yumurta, kasap sucuk, pişi, Ankara simidi, ekmek çeşitleri.",
+        "displayName": null,
+        "price": "300",
+        "category": "Kahvaltılar",
+        "timestamp": {
+            "seconds": 1676566174,
+            "nanoseconds": 232000000
+        },
+        "title": "Lizboon Kahvaltı Şöleni (2 kişilik)",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1"
+    },
+    {
+        "id": "Bx8WvpuUElVFhELZO3t1",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676628145694.DMLWuFkX4AEDw4T.jpg",
+        "displayName": "Lizboon Coffee & More",
+        "price": "25",
+        "title": "Duble çay",
+        "timestamp": {
+            "seconds": 1676628145,
+            "nanoseconds": 582000000
+        },
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "desc": "",
+        "category": "Sıcak içecekler"
+    },
+    {
+        "id": "ClPxEWYDwT3dm6qScVxQ",
+        "title": "Ihlamur",
+        "category": "Bitki çayları",
+        "price": "60",
+        "displayName": "Lizboon Coffee & More",
+        "desc": "",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676628501781.ihlamur-nasil-demlenir_4565_1.jpg",
+        "timestamp": {
+            "seconds": 1676628537,
+            "nanoseconds": 568000000
+        }
+    },
+    {
+        "id": "CvhxMkhu4tkWH9BN7fjl",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676564579162.682128ba-0080-46c1-b8af-9bd8aa7366c6.jpg",
+        "category": "Makarnalar",
+        "price": "135",
+        "desc": "Taze fesleğen sos, krema.",
+        "displayName": null,
+        "title": "Pesto Fettuccine",
+        "timestamp": {
+            "seconds": 1676564592,
+            "nanoseconds": 558000000
+        },
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1"
+    },
+    {
+        "id": "Dfx27j5hsSOisUUQcJTR",
+        "displayName": "Lizboon Coffee & More",
+        "timestamp": {
+            "seconds": 1677106881,
+            "nanoseconds": 996000000
+        },
+        "category": "Kahveler",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1677106879023.white-chocolate-mocha-square.jpg",
+        "desc": "",
+        "title": "White chocolate mocha",
+        "price": "55"
+    },
+    {
+        "id": "DxFlNr4wGaDOAByDinJ5",
+        "category": "Kahveler",
+        "desc": "",
+        "title": "Mocha",
+        "price": "50",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "timestamp": {
+            "seconds": 1676627033,
+            "nanoseconds": 963000000
+        },
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676627033751.mocha%2Bnedir-nasil%2Bbir%2Bkahvedir-3-KahveKafeBlogspotCom.jpg",
+        "displayName": "Lizboon Coffee & More"
+    },
+    {
+        "id": "Ev0xXZQt3rw7j2vuwgV1",
+        "title": "Tahinli Baby Ispanak",
+        "displayName": null,
+        "desc": "Baby ıspanak, tahin sosu ile.",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676563279625.1c16c30a-2770-441a-b58d-a5a16e063061.jpg",
+        "timestamp": {
+            "seconds": 1676563294,
+            "nanoseconds": 960000000
+        },
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "price": "115",
+        "category": "Salatalar"
+    },
+    {
+        "id": "F2PVprmeE60wpsv8y1Nm",
+        "displayName": "Lizboon Coffee & More",
+        "category": "Soğuk içecekler",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1677101987545.REDBULL-SUGARFREE-600x1067.jpeg",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "price": "38",
+        "title": "Redbull",
+        "timestamp": {
+            "seconds": 1677101989,
+            "nanoseconds": 983000000
+        },
+        "desc": ""
+    },
+    {
+        "id": "GI1RbKB9dk392Yiddl4I",
+        "timestamp": {
+            "seconds": 1676557467,
+            "nanoseconds": 164000000
+        },
+        "category": "Omlet & Sahandan",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676557464913.mihlama_kuymak_nasil_yapilir_h133945_c2911.jpg",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "displayName": null,
+        "desc": "",
+        "price": "95",
+        "title": "Kuymak"
+    },
+    {
+        "id": "Gl54bo37duaOZBa2JpzC",
+        "price": "55",
+        "displayName": "Lizboon Coffee & More",
+        "timestamp": {
+            "seconds": 1676961888,
+            "nanoseconds": 648000000
+        },
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "category": "Soğuk kahveler",
+        "title": "Ice mocha",
+        "desc": "",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676961887299.28456124862_087dee2353_o.jpg"
+    },
+    {
+        "id": "HayEjhDwDzJpvkOW8dDM",
+        "displayName": "Lizboon Coffee & More",
+        "timestamp": {
+            "seconds": 1677101330,
+            "nanoseconds": 472000000
+        },
+        "title": "Fanta",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "price": "24",
+        "desc": "",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1677101328829.fanta-200-ml-24lu-cam-gazli-icecek-_195608.jpg",
+        "category": "Soğuk içecekler"
+    },
+    {
+        "id": "HmeWQhpBKkZ40zNN9g8M",
+        "price": "140",
+        "timestamp": {
+            "seconds": 1676564220,
+            "nanoseconds": 861000000
+        },
+        "title": "Fast Chicken Burger",
+        "desc": "Şefin özel kaplaması ile kızartılmış tavuk but, eritme cheddar peyniri, karamelize soğan, baharatlı patates ve chili sos ile.",
+        "category": "Burgerler",
+        "displayName": null,
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676564203643.bfef1bef-0f47-48ee-99ce-c5733c2fe05f.jpg",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1"
+    },
+    {
+        "id": "Iymud89oGqOZFMFa18X2",
+        "price": "70",
+        "category": "Lizboon kokteyller",
+        "desc": "ananas suyu,  hindistan cevizi sütü,  çiğ krema, greyfurt suyu.",
+        "displayName": "Lizboon Coffee & More",
+        "timestamp": {
+            "seconds": 1677103548,
+            "nanoseconds": 779000000
+        },
+        "title": "Lizboonpuda",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1677103546350.ananas-kokteyl.jpg"
+    },
+    {
+        "id": "JLMrI4hAk62Hcki6Sj9x",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676627734617.dvV3N4.jpg",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "desc": "",
+        "category": "Kahveler",
+        "timestamp": {
+            "seconds": 1676627734,
+            "nanoseconds": 824000000
+        },
+        "displayName": "Lizboon Coffee & More",
+        "title": "Dubble türkkahvesi",
+        "price": "60"
+    },
+    {
+        "id": "JWQMhfw7ejlDndUxOJY3",
+        "category": "Nargile",
+        "title": "Adalya",
+        "timestamp": {
+            "seconds": 1676874036,
+            "nanoseconds": 475000000
+        },
+        "desc": "Love 66 \nLady Killer \n\t\nİzmir Romantik\nMarlin Monroe\nİce bonbon\nHawai\nSwiss bonbon\nMoscow Night\nBerlin Night\nTinky Minky\nBlue Ice\nPink Prenses\nHawana\nMiamor\nCrayz Limon\nDragon\nPeach Apple\nHazelnut",
+        "displayName": "Lizboon Coffee & More",
+        "price": "180",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676874034241.kefoarmadillo27.jpg",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1"
+    },
+    {
+        "id": "JYgsEDoFe0K9QmaZnPLY",
+        "title": "Cappuccino",
+        "category": "Kahveler",
+        "desc": "",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1677106760275.cappuccino-nedir-nasil-yapilir-f2999f21-f9b0-4dd7-9a39-9f42b8ebfee0.jpg",
+        "price": "55",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "timestamp": {
+            "seconds": 1677106763,
+            "nanoseconds": 133000000
+        },
+        "displayName": "Lizboon Coffee & More"
+    },
+    {
+        "id": "JucejjxVhcXBXcpdnaw1",
+        "title": "Ice tea",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1677105168640.seftali_ice_tea5_2.jpg",
+        "price": "22",
+        "category": "Soğuk içecekler",
+        "desc": "",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "displayName": "Lizboon Coffee & More",
+        "timestamp": {
+            "seconds": 1677105172,
+            "nanoseconds": 93000000
+        }
+    },
+    {
+        "id": "LErZ71nmemVyFprJCpQa",
+        "timestamp": {
+            "seconds": 1676557905,
+            "nanoseconds": 459000000
+        },
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676557904292.f118eccd-c1a1-4369-ad7f-f18b950f62d4.jpg",
+        "price": "65",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "displayName": null,
+        "desc": "",
+        "title": "Sade Patates",
+        "category": "Başlangıç & Atıştırmalıklar"
+    },
+    {
+        "id": "LXiw6Cz1wUE39R84Xwvu",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "title": "Mücver Burger",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676564094968.M%C3%BCcver%20Burger.jpeg",
+        "timestamp": {
+            "seconds": 1676564108,
+            "nanoseconds": 885000000
+        },
+        "price": "130",
+        "desc": "El yapımı hamburger ekmeği, sebze mücver, sour cream sos, eritme cheddar peyniri, baharatlı patates ve chili sos ile.",
+        "displayName": null,
+        "category": "Burgerler"
+    },
+    {
+        "id": "NLjOVoz9Jud1V9V6L1T7",
+        "category": "Başlangıç & Atıştırmalıklar",
+        "price": "85",
+        "desc": "Sebzeli mücver, ekşili süzme yoğurt kombinasyonu.",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "title": "Yoğurt & Mücver",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676560949407.21706f84-1771-4c1c-aebc-6fe77fbafd4e.jpg",
+        "displayName": null,
+        "timestamp": {
+            "seconds": 1676560960,
+            "nanoseconds": 666000000
+        }
+    },
+    {
+        "id": "OSTBpyYuyCan1kP7HYMg",
+        "title": "Sıcak çikolata",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676625996737.sicak_cikolata_yapimi_ofix_blog.jpg",
+        "price": "55",
+        "category": "Sıcak içecekler",
+        "timestamp": {
+            "seconds": 1676625996,
+            "nanoseconds": 777000000
+        },
+        "desc": "",
+        "displayName": "Lizboon Coffee & More",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1"
+    },
+    {
+        "id": "OW9gGUeQ2Qz5tHJA8qGN",
+        "timestamp": {
+            "seconds": 1676625236,
+            "nanoseconds": 602000000
+        },
+        "desc": "",
+        "displayName": "Lizboon Coffee & More",
+        "price": "55",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "category": "Kahveler",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676625236677.Americano-ve-filtre-kahve-farki-hangisi-daha-sert.jpg",
+        "title": "Amerikano"
+    },
+    {
+        "id": "ObnE4JjFH2Fo2dIF5oLW",
+        "displayName": null,
+        "timestamp": {
+            "seconds": 1676554714,
+            "nanoseconds": 72000000
+        },
+        "desc": "Ceviz içi, pastırma, dil peyniri, roastbeef dilimleri, karamelize soğan, kavrulmuş susam.",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676554711561.0c4c6cab-3d65-48ac-9b73-40fe60b3f52d.jpg",
+        "category": "Pizzalar",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "price": "158",
+        "title": "Lizboon Pizza"
+    },
+    {
+        "id": "OedOPW45rXdMROUeMxBx",
+        "price": "40",
+        "displayName": "Lizboon Coffee & More",
+        "category": "Kahveler",
+        "desc": "",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676625870150.espresso-2awfexj-2.jpg",
+        "title": "Espresso",
+        "timestamp": {
+            "seconds": 1676625870,
+            "nanoseconds": 358000000
+        },
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1"
+    },
+    {
+        "id": "OrJB4xQ2p2vx583coaYm",
+        "title": "Böğürtlen çayı",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676646151874.bogurtlen.png",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "timestamp": {
+            "seconds": 1676646157,
+            "nanoseconds": 189000000
+        },
+        "category": "Bitki çayları",
+        "desc": "",
+        "price": "60",
+        "displayName": "Lizboon Coffee & More"
+    },
+    {
+        "id": "PLAQbCHJiHoKq8vXYGa0",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676560292683.%C3%A7%C4%B1t%C4%B1r%20combo.jpeg",
+        "category": "Başlangıç & Atıştırmalıklar",
+        "price": "155",
+        "timestamp": {
+            "seconds": 1676560303,
+            "nanoseconds": 36000000
+        },
+        "desc": "Tavuk lolita parçaları, kıymalı muska böreği, çıtır soğan parçaları, peynir topları, falafel, baharatlı patates, chili sos ile.",
+        "title": "Çıtır Combo",
+        "displayName": null
+    },
+    {
+        "id": "QkAuWco2wyp0o2neqxIX",
+        "timestamp": {
+            "seconds": 1676628777,
+            "nanoseconds": 278000000
+        },
+        "displayName": "Lizboon Coffee & More",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "title": "Kış çayı",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676628776963.d6b70eb8ab2d4b90713449628f4f4547bdf89083.jpg",
+        "price": "60",
+        "desc": "",
+        "category": "Bitki çayları"
+    },
+    {
+        "id": "Qp5fXvi2LFn7vl0j2Zrq",
+        "timestamp": {
+            "seconds": 1676555401,
+            "nanoseconds": 35000000
+        },
+        "price": "145",
+        "title": "Karışık Pizza",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "category": "Pizzalar",
+        "displayName": null,
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676555399652.Kar%C4%B1%C5%9F%C4%B1k%20pizza.jpeg",
+        "desc": "Mozarella peyniri, sucuk, salam, sosis, mantar, renkli biberler, mısır."
+    },
+    {
+        "id": "RKest0h93McZiqVw6l8o",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676554471641.f1253696-ffc0-4d66-954a-441d2b8210df.jpg",
+        "category": "Pizzalar",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "timestamp": {
+            "seconds": 1676554473,
+            "nanoseconds": 493000000
+        },
+        "displayName": null,
+        "price": "147",
+        "title": "Tandır Pizza",
+        "desc": "Tiftiklenmiş kuzu tandır, karamelize soğan, taze kekik, köz biber."
+    },
+    {
+        "id": "RPEfIn2Sfh5dcmVSuT69",
+        "desc": "",
+        "price": "75",
+        "category": "Başlangıç & Atıştırmalıklar",
+        "displayName": null,
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "timestamp": {
+            "seconds": 1676557591,
+            "nanoseconds": 205000000
+        },
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676557587966.c4d833f6-9bbb-41f2-8853-def62b209444.jpg",
+        "title": "Sour Cream Soslu Patates"
+    },
+    {
+        "id": "RQkrXFDUPP0a8DHbVWgm",
+        "displayName": "Lizboon Coffee & More",
+        "price": "40",
+        "desc": "",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676627324579.turk-kahvesi--kahve-8b75.png",
+        "category": "Kahveler",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "timestamp": {
+            "seconds": 1676627324,
+            "nanoseconds": 684000000
+        },
+        "title": "Türk kahvesi"
+    },
+    {
+        "id": "RX8UtAbTPyVMwvRZqO8s",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "displayName": "Lizboon Coffee & More",
+        "desc": "",
+        "title": "Ice filitrekahve",
+        "timestamp": {
+            "seconds": 1676646987,
+            "nanoseconds": 189000000
+        },
+        "price": "58",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676646983521.cold%20brew.jpg",
+        "category": "Soğuk kahveler"
+    },
+    {
+        "id": "RyrG0E1jpds5H7TBYaBT",
+        "desc": "El yapımı hamburger ekmeği, tiftiklenmiş kuzu tandır, karamelize soğan, eritme cheddar peyiniri, baharatlı patates ve chili sos ile.",
+        "timestamp": {
+            "seconds": 1676563963,
+            "nanoseconds": 757000000
+        },
+        "category": "Burgerler",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676563946369.34c03468-94bc-4926-a02a-0c5048e7f654.jpg",
+        "displayName": null,
+        "price": "160",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "title": "Tandır Burger"
+    },
+    {
+        "id": "SpvJwPD4YJONPy42eU71",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676559389079.85b3468f-f46d-4f78-ba1c-6286831d3568.jpg",
+        "title": "Duxelles Soslu Antrikot",
+        "category": "Ana Yemekler",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "price": "245",
+        "timestamp": {
+            "seconds": 1676559402,
+            "nanoseconds": 322000000
+        },
+        "desc": "Dana antrikot, mevsiminde sebzeler, biberiyeli mantar soslu.",
+        "displayName": null
+    },
+    {
+        "id": "TamUDPd23V5eCEzNiJPF",
+        "displayName": "Lizboon Coffee & More",
+        "desc": "",
+        "title": "Dibek kahvesi",
+        "price": "45",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676627379750.dibekkahvesi1-800x800.jpg",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "timestamp": {
+            "seconds": 1676627380,
+            "nanoseconds": 76000000
+        },
+        "category": "Kahveler"
+    },
+    {
+        "id": "TbvAviCooyNBnBrM9eSq",
+        "category": "Bitki çayları",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676646593177.tarcin-cayi-nasil-yapilir-faydalari-nelerdir-849c58a2-9eae-4136-a344-6638311dc253.jpg",
+        "displayName": "Lizboon Coffee & More",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "timestamp": {
+            "seconds": 1676646597,
+            "nanoseconds": 45000000
+        },
+        "price": "60",
+        "title": "Elma tarçın çayı",
+        "desc": ""
+    },
+    {
+        "id": "TtTkvQtScdQ2vkf1GCPB",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1677107210523.nar_7207.jpg",
+        "timestamp": {
+            "seconds": 1677107213,
+            "nanoseconds": 805000000
+        },
+        "desc": "",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "price": "80",
+        "displayName": "Lizboon Coffee & More",
+        "title": "Portakal nar",
+        "category": "Taze meyveli lezzetler"
+    },
+    {
+        "id": "UeEcMoHIf8oG1a667uvV",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1677149339478.k%C4%B1s-aylarinda-icinizi-isiticak-corba-tarifleri-1-min.jpg",
+        "timestamp": {
+            "seconds": 1677149342,
+            "nanoseconds": 573000000
+        },
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "title": "Günün çorbası",
+        "desc": "",
+        "displayName": "Lizboon Coffee & More",
+        "category": "Başlangıç & Atıştırmalıklar",
+        "price": "60"
+    },
+    {
+        "id": "V43JtKH7CohQtkKcz66u",
+        "category": "Soğuk kahveler",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676653245769.iced-white-chocolate-mocha-4x5-DSC_0158-2-scaled.jpg",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "timestamp": {
+            "seconds": 1676653248,
+            "nanoseconds": 542000000
+        },
+        "title": "Ice White chocolate",
+        "price": "58",
+        "desc": "",
+        "displayName": "Lizboon Coffee & More"
+    },
+    {
+        "id": "Vj5X9gbZso0tSLsmK9js",
+        "category": "Nargile",
+        "desc": "Karpuz \nKavun\nYaban mersini \nÇilek",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "timestamp": {
+            "seconds": 1676887634,
+            "nanoseconds": 479000000
+        },
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676887632517.Screenshot_20230220-130228_OneDrive.jpg",
+        "displayName": "Lizboon Coffee & More",
+        "title": "Kızıl geyik",
+        "price": "180"
+    },
+    {
+        "id": "VkMwNJDUWZsxhQXiUATS",
+        "price": "60",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "category": "Bitki çayları",
+        "timestamp": {
+            "seconds": 1676646312,
+            "nanoseconds": 140000000
+        },
+        "desc": "",
+        "displayName": "Lizboon Coffee & More",
+        "title": "Yeşil çay",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676646308026.3419969_12f353d742b16e99473ea632c5dbf0dd.jpg"
+    },
+    {
+        "id": "WhY5IcPu6pP12Yzccezz",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "displayName": "Lizboon Coffee & More",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1677105541672.cappy-kutu.png",
+        "desc": "Şeftali \nKayısı\nVişne\nKarışık\n",
+        "timestamp": {
+            "seconds": 1677105545,
+            "nanoseconds": 159000000
+        },
+        "title": "Cappy",
+        "price": "23",
+        "category": "Soğuk içecekler"
+    },
+    {
+        "id": "XPWGbSK0go8O0zdgpbeF",
+        "price": "135",
+        "desc": "Salam, sucuk, sosis, ketçap, mayonez.",
+        "timestamp": {
+            "seconds": 1676555598,
+            "nanoseconds": 924000000
+        },
+        "title": "Ayvalık Kumru Pizza",
+        "displayName": null,
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "category": "Pizzalar",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676555596035.36abe205-3031-47c4-83a2-a4441ace792e.jpg"
+    },
+    {
+        "id": "Y3zwaQftNvKglJNWCgNg",
+        "desc": "Adalya\nBahreyn\nElfakir",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "title": "İsteğe bağlı karisimlar için nargileci arkadaşımiz yardimci olsun ",
+        "timestamp": {
+            "seconds": 1676888839,
+            "nanoseconds": 257000000
+        },
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676888835202.20230220_132658.jpg",
+        "displayName": "Lizboon Coffee & More",
+        "category": "Nargile",
+        "price": "180"
+    },
+    {
+        "id": "YkGC3BfhRUf7ZvrViAil",
+        "displayName": null,
+        "price": "75",
+        "desc": "",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676556999012.g%C3%B6z%20yumurta.jpeg",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "timestamp": {
+            "seconds": 1676557000,
+            "nanoseconds": 544000000
+        },
+        "category": "Omlet & Sahandan",
+        "title": "Sahanda Tereyağlı Göz Yumurta"
+    },
+    {
+        "id": "YnE7ez20RHZi8LRNV5nQ",
+        "title": "Lizboon Burger",
+        "displayName": null,
+        "timestamp": {
+            "seconds": 1676563886,
+            "nanoseconds": 687000000
+        },
+        "category": "Burgerler",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676563873514.06dfa07f-96ee-4916-aeb7-a498f11d1271.jpg",
+        "price": "145",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "desc": "El yapımı hamburger ekmeği, el yapımı hamburger köftesi, roastbeef, cheddar peyniri, soğan marmelatı, baharatlı patates ve chili sos ile."
+    },
+    {
+        "id": "ZCGtngkHiN8XX0602Q3J",
+        "category": "Sıcak içecekler",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676655953925.ananasli-muzlu-sut-132246.jpg",
+        "price": "60",
+        "title": "Salep muzlu",
+        "desc": "",
+        "timestamp": {
+            "seconds": 1676655956,
+            "nanoseconds": 904000000
+        },
+        "displayName": "Lizboon Coffee & More",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1"
+    },
+    {
+        "id": "ZYaIspBKcLtmA8l0Ngx4",
+        "timestamp": {
+            "seconds": 1676646711,
+            "nanoseconds": 536000000
+        },
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "title": "Tropik bitki çayı",
+        "desc": "",
+        "price": "60",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676646707963.kis-hastaliklarina-karsi-koruyucu-olan-bitki-caylari-1.jpg",
+        "displayName": "Lizboon Coffee & More",
+        "category": "Bitki çayları"
+    },
+    {
+        "id": "aUxv5iOKyaACsrX0uRk0",
+        "price": "18",
+        "title": "Çay",
+        "uid": "iz7lu30yoHbd66t2Ypsv3uhd9R02",
+        "timestamp": {
+            "seconds": 1676465652,
+            "nanoseconds": 774000000
+        },
+        "category": "İçecekler",
+        "displayName": null,
+        "desc": "",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rosehiptea.png/1200px-Rosehiptea.png"
+    },
+    {
+        "id": "ap31F525qkuwlSOUqCCO",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1677101621191.8-ayran.jpg",
+        "timestamp": {
+            "seconds": 1677101624,
+            "nanoseconds": 571000000
+        },
+        "desc": "",
+        "title": "Ayran",
+        "price": "19",
+        "displayName": "Lizboon Coffee & More",
+        "category": "Soğuk içecekler"
+    },
+    {
+        "id": "c0g3c5OUQ7wPqFZdiULK",
+        "desc": "",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676656880059.portakalsuyu.jpg",
+        "title": "Portakal suyu",
+        "price": "55",
+        "displayName": "Lizboon Coffee & More",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "timestamp": {
+            "seconds": 1676656883,
+            "nanoseconds": 486000000
+        },
+        "category": "Taze meyveli lezzetler"
+    },
+    {
+        "id": "cMrPNx8PlDvdrC5SEirn",
+        "timestamp": {
+            "seconds": 1676564525,
+            "nanoseconds": 381000000
+        },
+        "title": "Sezar Wrap (Tavuklu veya sade)",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676564505804.bd17d35c-b2a4-4e8e-beed-c1178843c0d9.jpg",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "category": "Wrapler",
+        "price": "115-125",
+        "displayName": null,
+        "desc": "Baharatlı Patates"
+    },
+    {
+        "id": "coKoPPeyoSBMDN0MBUSl",
+        "displayName": "Lizboon Coffee & More",
+        "desc": "",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676628212028.espresso-2awfexj-2.jpg",
+        "price": "50",
+        "title": "Duble espresso",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "timestamp": {
+            "seconds": 1676628214,
+            "nanoseconds": 585000000
+        },
+        "category": "Kahveler"
+    },
+    {
+        "id": "dFMbO9BWgAA7DiDjTCQ6",
+        "timestamp": {
+            "seconds": 1676556854,
+            "nanoseconds": 475000000
+        },
+        "desc": "",
+        "price": "90",
+        "category": "Omlet & Sahandan",
+        "displayName": null,
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "title": "Samsun Usulü Tereyağlı Menemen",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676556851289.71dfb3c9-8546-408a-9930-88a93e8351ef.jpg"
+    },
+    {
+        "id": "dHpzwk4Yikulx6U9up1y",
+        "desc": "Tereyağında.",
+        "title": "Kepekli Spaghetti",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "category": "Makarnalar",
+        "displayName": null,
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676565465149.7fd2ce55-53a9-430a-9153-2ffe8f887413.jpg",
+        "timestamp": {
+            "seconds": 1676565480,
+            "nanoseconds": 573000000
+        },
+        "price": "130"
+    },
+    {
+        "id": "eMidZkhLEkCsUGPucPKm",
+        "price": "145",
+        "title": "Kinoa Salata",
+        "displayName": null,
+        "category": "Salatalar",
+        "desc": "Üç renk kinoa, çilek, enginar kalbi, bostan yeşillikleri, ekmek kıtırı, balsamik sos ile.",
+        "timestamp": {
+            "seconds": 1676563383,
+            "nanoseconds": 171000000
+        },
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676563368007.f5f5e9d5-b414-47e8-a29d-42fc1494c81f.jpg"
+    },
+    {
+        "id": "eTT2ou2FdhFinUT14OHN",
+        "category": "Makarnalar",
+        "displayName": null,
+        "price": "145",
+        "title": "Tavuk Casarecce Alfredo",
+        "timestamp": {
+            "seconds": 1676565271,
+            "nanoseconds": 1000000
+        },
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676565257065.7fd2ce55-53a9-430a-9153-2ffe8f887413.jpg",
+        "desc": "Taze fesleğen sos, krema, tavuk parçaları, kurutulmuş domates, krema sosu ile."
+    },
+    {
+        "id": "etHGGbK9NNR4y68sO7tM",
+        "title": "Rezene",
+        "price": "60",
+        "timestamp": {
+            "seconds": 1676628461,
+            "nanoseconds": 873000000
+        },
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676628460655.rezene-cayi-nasil-yapilir7488478376127c6b7a636c.jpg",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "desc": "",
+        "category": "Bitki çayları",
+        "displayName": "Lizboon Coffee & More"
+    },
+    {
+        "id": "f0wz974w8mApmVpW2ceY",
+        "displayName": "Lizboon Coffee & More",
+        "timestamp": {
+            "seconds": 1676873115,
+            "nanoseconds": 562000000
+        },
+        "desc": "•\tLavaş ekmeği, ev yapımı acuka, dil peyniri, pastırma, domates, bostan yeşillikleri, baharatlı patates",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676873113291.IMG-20230216-WA0062.jpg",
+        "category": " Tost Çeşitleri",
+        "price": "120",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "title": "Lavaş tost"
+    },
+    {
+        "id": "fVY580H5429vySSorJqX",
+        "price": "155",
+        "timestamp": {
+            "seconds": 1676555490,
+            "nanoseconds": 913000000
+        },
+        "title": "Quattro Formaggi",
+        "displayName": null,
+        "desc": "Mozzarella peyniri, parmesan peyniri, cheddar peyniri, misket mozzarella, pesto sos.",
+        "category": "Pizzalar",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676555487473.7fe4bbbd-daa4-444f-bb4e-e36b864ce75f.jpg"
+    },
+    {
+        "id": "fdjJwzh1H3ujffBYkRJj",
+        "price": "85",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676557049902.6e30ade8-188a-4d9c-8689-fe74b63b71e0.jpg",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "title": "Fit Omlet",
+        "timestamp": {
+            "seconds": 1676557051,
+            "nanoseconds": 973000000
+        },
+        "category": "Omlet & Sahandan",
+        "desc": "Lor peyniri, labne peyniri, maydanoz, nane, dereotu uyumu.",
+        "displayName": null
+    },
+    {
+        "id": "go4ZV8Cj0YbKNq7pkvS1",
+        "displayName": null,
+        "timestamp": {
+            "seconds": 1676659412,
+            "nanoseconds": 97000000
+        },
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676659410175.1676554079363.f1253696-ffc0-4d66-954a-441d2b8210df.jpg",
+        "title": "Çay",
+        "uid": "onGEp4sh4GMa2gZUP654hhp5eVe2",
+        "category": "İçecekler",
+        "desc": "",
+        "price": "18"
+    },
+    {
+        "id": "h8lohOd2I0WmEsB5noNu",
+        "title": "Chemex",
+        "desc": "",
+        "timestamp": {
+            "seconds": 1676654351,
+            "nanoseconds": 964000000
+        },
+        "displayName": "Lizboon Coffee & More",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "category": "Dünya klasikleri kahveler",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676654349282.10420052525106.jpg",
+        "price": "70"
+    },
+    {
+        "id": "hLnT2I6SjyIJiOTsl14E",
+        "title": "V-60",
+        "category": "Dünya klasikleri kahveler",
+        "timestamp": {
+            "seconds": 1676655526,
+            "nanoseconds": 197000000
+        },
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676655522396.hario-v60-02-craft-kahve-demleme-seti.jpg",
+        "price": "55",
+        "desc": "",
+        "displayName": "Lizboon Coffee & More",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1"
+    },
+    {
+        "id": "hZ6rruh0a5g4H2Gozide",
+        "category": "Ana Yemekler",
+        "timestamp": {
+            "seconds": 1676555728,
+            "nanoseconds": 501000000
+        },
+        "price": "250",
+        "title": "Dana Madalyon",
+        "desc": "Dana bonfile, mevsiminde sebzeler ve özel sunumu ile.",
+        "displayName": null,
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676555725978.5d23e721-1d4c-4e26-8a1d-7d478a89bb39.jpg"
+    },
+    {
+        "id": "hbDNdBvVO36Qemb3pAam",
+        "displayName": "Lizboon Coffee & More",
+        "title": "Lizboonsanbar",
+        "timestamp": {
+            "seconds": 1677104468,
+            "nanoseconds": 936000000
+        },
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1677104466633.indir.jpeg",
+        "desc": "Greyfurt suyu\nTuz\nLimon suyu\nSoda\n",
+        "category": "Lizboon kokteyller",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "price": "65"
+    },
+    {
+        "id": "hyWrnQRIYC7FkK1mx3aK",
+        "timestamp": {
+            "seconds": 1676564805,
+            "nanoseconds": 720000000
+        },
+        "category": "Makarnalar",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "displayName": null,
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676564795617.719b13d1-2659-4e22-9d58-a7183184627d.jpg",
+        "price": "145",
+        "title": "Spaghetti Bolognese",
+        "desc": "Bolognese sos ile spagetti buluşması."
+    },
+    {
+        "id": "iDuQUlOYAsYUb8G2xM67",
+        "price": "19",
+        "title": "Oralet çeşitleri",
+        "category": "Sıcak içecekler",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "timestamp": {
+            "seconds": 1676960368,
+            "nanoseconds": 169000000
+        },
+        "displayName": "Lizboon Coffee & More",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676960364306.Caylar-2-scaled.jpg",
+        "desc": "Muz.\nKivi.\nPortakal.\nElma"
+    },
+    {
+        "id": "iSzSUMnYGom2bYXmy1FS",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1677107385440.154098.jpg",
+        "displayName": "Lizboon Coffee & More",
+        "desc": "Elma\nHavuç\nPortakal \nNar",
+        "title": "Lizboon atom",
+        "timestamp": {
+            "seconds": 1677107389,
+            "nanoseconds": 109000000
+        },
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "category": "Taze meyveli lezzetler",
+        "price": "90"
+    },
+    {
+        "id": "iYvaBwN8B7iRHXKocW46",
+        "desc": "",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1677107107414.havuc-suyunun-faydalari3.jpg",
+        "timestamp": {
+            "seconds": 1677107109,
+            "nanoseconds": 999000000
+        },
+        "title": "Havuç suyu",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "displayName": "Lizboon Coffee & More",
+        "category": "Taze meyveli lezzetler",
+        "price": "75"
+    },
+    {
+        "id": "j46KYEqghkKejuz1OL3t",
+        "displayName": null,
+        "desc": "Kısık odun ateşinde pişmiş kuzu incik, keşkek risotto, incir sos uyumu ile.",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "price": "285",
+        "timestamp": {
+            "seconds": 1676556380,
+            "nanoseconds": 6000000
+        },
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676556376352.8b7c513f-33d3-42df-94e0-af975269519d.jpg",
+        "title": "Şefin Özel Sunumu ile Kuzu İncik",
+        "category": "Ana Yemekler"
+    },
+    {
+        "id": "jAh0lGKSmHp37Djbf6w5",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676628042426.taft-coffee-yuksek-kafeinli-filtre-kahve-nedir-nasil-yapilir-2_480x480.jpg",
+        "category": "Kahveler",
+        "timestamp": {
+            "seconds": 1676628057,
+            "nanoseconds": 815000000
+        },
+        "desc": "",
+        "displayName": "Lizboon Coffee & More",
+        "title": "Filtre kahve",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "price": "55"
+    },
+    {
+        "id": "jnfUsNqPjw1pjvpOkGic",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676626889293.homemade-iced-caramel-macchiato-6.jpg",
+        "timestamp": {
+            "seconds": 1676626889,
+            "nanoseconds": 804000000
+        },
+        "displayName": "Lizboon Coffee & More",
+        "price": "55",
+        "title": "Caramel macchiato",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "category": "Kahveler",
+        "desc": ""
+    },
+    {
+        "id": "kbnxZShKWuwP3hvmoQOR",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "timestamp": {
+            "seconds": 1676961198,
+            "nanoseconds": 753000000
+        },
+        "category": "Taze meyveli lezzetle",
+        "desc": "Nar\nPortakal\nFındık",
+        "displayName": "Lizboon Coffee & More",
+        "price": "90",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676961196641.cumhurbaskani-erdoganin-tavsiyesi-portakal-nar-suyu-karisimi-0-XATC6sPG.jpg",
+        "title": "Atom"
+    },
+    {
+        "id": "lNvw3Gtt1aruDZczCN2O",
+        "title": "Margarita",
+        "category": "Pizzalar",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676554579410.88d4d400-7e16-4642-8138-7a2b16654940.jpg",
+        "timestamp": {
+            "seconds": 1676554581,
+            "nanoseconds": 253000000
+        },
+        "displayName": null,
+        "price": "130",
+        "desc": "Klasik margarita, taze fesleğen."
+    },
+    {
+        "id": "oMrh4haeRnfUyXLWyXs8",
+        "price": "140",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676560535814.fast%20lizboon.jpeg",
+        "desc": "Şefin özel kaplaması ile kızartılmış tavuk lolita parçaları, baharatlı patates, akıtma cheddar sos, chili sos ile.",
+        "displayName": null,
+        "timestamp": {
+            "seconds": 1676560546,
+            "nanoseconds": 34000000
+        },
+        "category": "Başlangıç & Atıştırmalıklar",
+        "title": "Fast Lizboon"
+    },
+    {
+        "id": "oQQJerTzUGQl1t0ulrie",
+        "timestamp": {
+            "seconds": 1677101290,
+            "nanoseconds": 428000000
+        },
+        "desc": "",
+        "price": "24",
+        "title": "Cola ",
+        "displayName": "Lizboon Coffee & More",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1677101287976.icecek-coca-cola.jpg",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "category": "Soğuk içecekler"
+    },
+    {
+        "id": "oroO1aG6VE4N5NAqbQJV",
+        "price": "60",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676627847542.Menengic-Kahvesi-resim-420.jpg",
+        "timestamp": {
+            "seconds": 1676627847,
+            "nanoseconds": 907000000
+        },
+        "desc": "",
+        "displayName": "Lizboon Coffee & More",
+        "title": "Menengiç",
+        "category": "Kahveler"
+    },
+    {
+        "id": "pab6CL50P8qYZTAX2hlY",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "category": "Başlangıç & Atıştırmalıklar",
+        "displayName": null,
+        "desc": "",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676557883660.0c3e538e-ed76-45f7-ae75-5dc75ddeb332.jpg",
+        "title": "Cheddar Soslu Patates",
+        "timestamp": {
+            "seconds": 1676557886,
+            "nanoseconds": 257000000
+        },
+        "price": "85"
+    },
+    {
+        "id": "q5mxR6QSXtBXZgn22pdd",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "timestamp": {
+            "seconds": 1676559531,
+            "nanoseconds": 146000000
+        },
+        "price": "245",
+        "desc": "Wok tavada çevrilmiş özel marineli dana bonfile parçaları, ekşili yoğurt ve kıl patatesi ile.",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676559517796.dana%20wok.jpeg",
+        "displayName": null,
+        "title": "Dana Wok",
+        "category": "Ana Yemekler"
+    },
+    {
+        "id": "qMBPIE7ECfRSLeYgznG6",
+        "timestamp": {
+            "seconds": 1676653943,
+            "nanoseconds": 574000000
+        },
+        "category": "Dünya klasikleri kahveler",
+        "price": "70",
+        "displayName": "Lizboon Coffee & More",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "title": "V-60",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676653940261.hario-v60-02-craft-kahve-demleme-seti.jpg",
+        "desc": ""
+    },
+    {
+        "id": "qZycE395YoqGViyuGLBi",
+        "category": "Sıcak içecekler",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676627188896.salep-1000x1000-1.jpg",
+        "title": "Salep",
+        "price": "55",
+        "displayName": "Lizboon Coffee & More",
+        "desc": "",
+        "timestamp": {
+            "seconds": 1676627190,
+            "nanoseconds": 300000000
+        }
+    },
+    {
+        "id": "qstSW0bf1tjKGaWWyJUA",
+        "price": "100",
+        "desc": "Özel sahanda domates sos, kızarmış mini köfte topları, eritme mozzarella.",
+        "title": "Meatball",
+        "displayName": null,
+        "category": "Başlangıç & Atıştırmalıklar",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "timestamp": {
+            "seconds": 1676560894,
+            "nanoseconds": 232000000
+        },
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676560880041.0abe0cf7-adfb-44a0-b202-7ee9f9e6fb92.jpg"
+    },
+    {
+        "id": "rziYkXttiZsQUR3TjsDL",
+        "title": "Pişili Kahvaltı",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "displayName": null,
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676565680502.966fdd3c-814b-4812-b6ac-e54aaf83592e.jpg",
+        "price": "150",
+        "category": "Kahvaltılar",
+        "desc": "Üç adet pişi, bostan yeşillikleri, kiraz domates, Çengelköy salatalık, köy biberi, taze kaşar, baharatlı lor peyniri, tam yağlı Ezine peyniri, portakal kabuğu reçeli, zeytin salatası.",
+        "timestamp": {
+            "seconds": 1676565699,
+            "nanoseconds": 527000000
+        }
+    },
+    {
+        "id": "s9KJm3MKJJQdy6yRtlok",
+        "desc": "•\tAyvalık tost ekmeği, ezine peyniri, bahçe domatesi, fesleğen sos, bostan yeşillikleri, baharatlı patates",
+        "price": "80",
+        "timestamp": {
+            "seconds": 1676872995,
+            "nanoseconds": 734000000
+        },
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "displayName": "Lizboon Coffee & More",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676872993426.IMG-20230216-WA0060.jpg",
+        "title": "Ezine domatesli tost",
+        "category": " Tost Çeşitleri"
+    },
+    {
+        "id": "sbNQMClFQN5R676fO3B2",
+        "title": "Meyveli soda",
+        "price": "21",
+        "displayName": "Lizboon Coffee & More",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1677101847898.fresa-1.png",
+        "timestamp": {
+            "seconds": 1677101850,
+            "nanoseconds": 613000000
+        },
+        "desc": "Karpuz\nKarpuz çilek\nLimon\nElma\nÇilek\nKarışık",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "category": "Soğuk içecekler"
+    },
+    {
+        "id": "t1Gla0p07YPPU7egzOyP",
+        "desc": "",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1677101698659.beypazari-dogal-maden-suyu-200-ml.jpg",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "price": "19",
+        "category": "Soğuk içecekler",
+        "timestamp": {
+            "seconds": 1677101700,
+            "nanoseconds": 930000000
+        },
+        "displayName": "Lizboon Coffee & More",
+        "title": "Sade soda"
+    },
+    {
+        "id": "tZc5sjieeXwS4kG5rpod",
+        "title": "Nane limon çayı",
+        "category": "Bitki çayları",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "desc": "",
+        "displayName": "Lizboon Coffee & More",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676646516255.nane-limon.jpg",
+        "timestamp": {
+            "seconds": 1676646519,
+            "nanoseconds": 683000000
+        },
+        "price": "60"
+    },
+    {
+        "id": "uwRtBAWNtFNbQdwEN46o",
+        "title": "Lime Soslu Somon Izgara",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676556274558.7767ba39-b944-475f-a0aa-38d2810e9c28.jpg",
+        "category": "Ana Yemekler",
+        "timestamp": {
+            "seconds": 1676556278,
+            "nanoseconds": 71000000
+        },
+        "price": "265",
+        "displayName": null,
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "desc": "Norveç somon ızgara, iki renkli kinoa salatası, lime sos eşliğinde."
+    },
+    {
+        "id": "v051V0QW1B62CMpzZr9F",
+        "price": "155",
+        "desc": "Jülyen dana bonfile, kapya biberi, köy biberi, soğan, şefin özel baharatı, baharatlı patates.",
+        "category": "Wrapler",
+        "displayName": null,
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676564253491.15aba01d-6fa7-4fc8-b1b9-10c2fd023375.jpg",
+        "timestamp": {
+            "seconds": 1676564269,
+            "nanoseconds": 922000000
+        },
+        "title": "Etli Wrap"
+    },
+    {
+        "id": "vM5HEdzQDfB4yvvb1o9z",
+        "price": "155",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676564656667.19b442e6-7cf9-4321-adc2-59822725f9dd.jpg",
+        "category": "Makarnalar",
+        "desc": "Bonfile parçaları, kızarmış patlıcan şeritleri, domates sos çektirme.",
+        "timestamp": {
+            "seconds": 1676564667,
+            "nanoseconds": 631000000
+        },
+        "displayName": null,
+        "title": "Dello Chef",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1"
+    },
+    {
+        "id": "wDkKgdzBK5AbxED8tMbA",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "title": "Izgara Tavuk Izgara Ananas",
+        "price": "150",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676563508862.a00647ac-4c8e-4a0b-a03d-684175f8836e.jpg",
+        "displayName": null,
+        "category": "Salatalar",
+        "timestamp": {
+            "seconds": 1676563516,
+            "nanoseconds": 712000000
+        },
+        "desc": "Iceberg, yaban turp sosu, ekmek kıtırı."
+    },
+    {
+        "id": "wEvyy8hWi8fOApEwZaUf",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "desc": "",
+        "displayName": "Lizboon Coffee & More",
+        "timestamp": {
+            "seconds": 1676961999,
+            "nanoseconds": 536000000
+        },
+        "price": "60",
+        "category": "Soğuk kahveler",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676961998425.iced-white-chocolate-mocha-4x5-DSC_0158-2-scaled.jpg",
+        "title": "ıce white chocolate mocha"
+    },
+    {
+        "id": "x9lqP6VlceiKDEzIXgBh",
+        "title": "Elma Dilim Patates",
+        "desc": "",
+        "category": "Başlangıç & Atıştırmalıklar",
+        "price": "70",
+        "displayName": null,
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676566555912.Elma%20Dilim%20Patates.jpeg",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "timestamp": {
+            "seconds": 1676566569,
+            "nanoseconds": 385000000
+        }
+    },
+    {
+        "id": "xofiEk8U2ZzXf6zlILnq",
+        "title": "Su",
+        "desc": "",
+        "price": "19",
+        "timestamp": {
+            "seconds": 1677105286,
+            "nanoseconds": 74000000
+        },
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1677105283049.gunde-kac-litre-su.jpg",
+        "displayName": "Lizboon Coffee & More",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "category": "Soğuk içecekler"
+    },
+    {
+        "id": "yNtfg3rgYrAmZJpDiJOF",
+        "desc": "Wok tavada çevrilmiş acı, tatlı, ekşi soslu tavuk parçaları, baharatlı patates.",
+        "timestamp": {
+            "seconds": 1676560714,
+            "nanoseconds": 34000000
+        },
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "displayName": null,
+        "title": "Asya Usulü Tavuk",
+        "price": "155",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676560700488.asya%20usul%C3%BC%20tavuk.jpeg",
+        "category": "Başlangıç & Atıştırmalıklar"
+    },
+    {
+        "id": "yWdMeU5jYivUdBDltvFT",
+        "category": "Lizboon kokteyller",
+        "timestamp": {
+            "seconds": 1677149592,
+            "nanoseconds": 113000000
+        },
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1677149585899.iyikigormusum--mojito.jpg",
+        "displayName": "Lizboon Coffee & More",
+        "title": "Lizbonitta",
+        "desc": "Limon sosu Elma suyu Taze nane Sade soda Salatlik Sprite",
+        "price": "70",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1"
+    },
+    {
+        "id": "yXfrGWxti3x0yYabxHFj",
+        "timestamp": {
+            "seconds": 1676563203,
+            "nanoseconds": 59000000
+        },
+        "price": "135",
+        "desc": "Bostan yeşillikleri, falafel topları, sour cream sos ile.",
+        "displayName": null,
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676563193517.87822868-43ba-42b2-9362-6f2c237d66e0.jpg",
+        "title": "Falafel Salata",
+        "category": "Salatalar"
+    },
+    {
+        "id": "yvnQnhGHXH57zK7OVUHY",
+        "desc": "•\tAyvalık tost ekmeği, dil peyniri, cheddar peyniri, ezine peyniri, bostan yeşillikleri, baharatlı patates",
+        "category": " Tost Çeşitleri",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676872824574.IMG-20230216-WA0016.jpg",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "price": "88",
+        "title": "Üç peynirli tost",
+        "displayName": "Lizboon Coffee & More",
+        "timestamp": {
+            "seconds": 1676872826,
+            "nanoseconds": 883000000
+        }
+    },
+    {
+        "id": "yw07GYFYOcU8RGo3Bbsh",
+        "desc": "Haşlanmış yumurta, kiraz domates, Çengelköy salatalık, köy biberi, tam yağlı ezine peyniri, taze kaşar peyniri, baharatlı lor peyniri, bostan yeşillikleri, Nutella, ev yapımı acuka, ekmek çeşitleri.",
+        "price": "145",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676565783133.8de79bf1-fc2c-4c5a-95ad-d63a34dcf8ba.jpg",
+        "displayName": null,
+        "timestamp": {
+            "seconds": 1676565785,
+            "nanoseconds": 739000000
+        },
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "title": "Yek Kahvaltı",
+        "category": "Kahvaltılar"
+    },
+    {
+        "id": "zrB7rf6YvR93I4IjKTNt",
+        "category": "Taze meyveli lezzetler",
+        "timestamp": {
+            "seconds": 1676961367,
+            "nanoseconds": 475000000
+        },
+        "title": "Nar",
+        "desc": "",
+        "uid": "w9dUKZIYqRZABfQ0UwHDIRUKhrw1",
+        "displayName": "Lizboon Coffee & More",
+        "img": "https://lizboon-qr-menu-2023.s3.eu-central-1.amazonaws.com/1676961364509.3349371_26b93229537a8b1a656c1c39313e3886.jpg",
+        "price": "75"
+    }
+]
